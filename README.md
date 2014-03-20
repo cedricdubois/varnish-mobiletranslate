@@ -10,7 +10,7 @@ A VCL script that adds a `X-UA-Device` header to the request.
 Device Type|X-UA-Device
 -----------|------------
 Phone      |  mobile
-Tablet     |  mobile;tablet
+Tablet     |  [configurable]
 Other      |  desktop
 
 ###Requirements
